@@ -38,6 +38,8 @@ Model: Explore the trained predictive model (here).
 
 Deployment: This model can be deployed as a web application or integrated into other applications.
 
+Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
+
 Contributors:-
 
 Mauli Patel(https://github.com/itsmemauliii)
