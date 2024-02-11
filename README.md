@@ -34,7 +34,7 @@ Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://loca
 
 Data: Access the dataset used for analysis https://www.kaggle.com/datasets/yasserh/titanic-dataset/data.
 
-Model: Explore the trained predictive model (here).
+Model: Explore the trained predictive model.
 
 Deployment: This model can be deployed as a web application or integrated into other applications.
 
