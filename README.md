@@ -30,7 +30,7 @@ Interactive Content:-
 
 You can interact with the analysis and predictive model using the following resources:-
 
-Jupyter Notebook: View the code and analysis in the Jupyter Notebook https://jupyter.org/try-jupyter/notebooks/?path=Task1.ipynb.
+Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/notebooks/Desktop/Codsoft/Task1.ipynb.
 
 Data: Access the dataset used for analysis https://www.kaggle.com/datasets/yasserh/titanic-dataset/data.
 
