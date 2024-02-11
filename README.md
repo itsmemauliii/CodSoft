@@ -42,6 +42,6 @@ Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
 
 Contributors:-
 
-Mauli Patel(https://github.com/itsmemauliii)
+https://github.com/itsmemauliii
 
 Feel free to contribute, provide feedback, or suggest improvements!
