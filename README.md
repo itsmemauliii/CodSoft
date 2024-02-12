@@ -32,11 +32,7 @@ You can interact with the analysis and predictive model using the following reso
 
 Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/notebooks/Desktop/Codsoft/Task1.ipynb.
 
-Data: Access the dataset used for analysis https://www.kaggle.com/datasets/yasserh/titanic-dataset/data.
-
-Model: Explore the trained predictive model.
-
-Deployment: This model can be deployed as a web application or integrated into other applications.
+Access the dataset used for analysis https://www.kaggle.com/datasets/yasserh/titanic-dataset/data.
 
 Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
 
