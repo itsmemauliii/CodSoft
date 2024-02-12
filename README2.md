@@ -24,6 +24,10 @@ Access the dataset: IMDb India Movies Dataset https://www.kaggle.com/datasets/ad
 
 Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
 
+Data Analysis/Data Wrnagling:- pandas,numpy,random
+
+Data Visualization:- seaborn,matplotlib
+
 Contributors:-
 
 https://github.com/itsmemauliii
