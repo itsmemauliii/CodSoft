@@ -8,14 +8,6 @@ Challenge Overview:-
 
 In this challenge, Aim to build a predictive model that answers the question: "What sorts of people were more likely to survive?" using passenger data such as name, age, gender, socio-economic class, etc.
 
-Algorithms Used:-
-
--Support Vector Machine
-
--K-Nearest Neighbour
-
--Decision Tree
-
 Dataset:-
 
 The dataset used for this analysis contains information about passengers aboard the Titanic, including whether they survived or not. It includes the following features:
