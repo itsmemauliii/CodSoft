@@ -7,8 +7,6 @@ Welcome to the Credit Card Fraud Detection project! The primary goal of this pro
 ## Algorithms Used
 
 - Logistic Regression
-- Random Forest
-- Gradient Boosting
 
 ## Dataset
 
