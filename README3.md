@@ -20,7 +20,7 @@ In this project, we explore the dataset to understand the characteristics of fra
 
 You can interact with the analysis and predictive models using the following resources:
 
-- Jupyter Notebook: View the code and analysis in the Jupyter Notebook [here](link-to-notebook).
+- Jupyter Notebook: View the code and analysis in the Jupyter Notebook.
 - Dataset: Access the dataset used for analysis https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
 
 ## Python Libraries Used
