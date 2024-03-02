@@ -1,4 +1,3 @@
-# CodSoft
 # Credit Card Fraud Detection
 ## Project Overview
 
