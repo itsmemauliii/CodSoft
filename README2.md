@@ -18,7 +18,7 @@ We will conduct exploratory data analysis (EDA) to uncover trends and patterns w
 
 You can interact with the analysis and explore the dataset using the following resources:-
 
-Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/edit/Desktop%2FCodsoft%2FTask2_Movie_Rating_Prediction.ipynb.
+Jupyter Notebook: View the code and analysis in the Jupyter Notebook.
 
 Access the dataset: IMDb India Movies Dataset https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
